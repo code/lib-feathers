@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.32](https://github.com/feathersjs/feathers/compare/v5.0.31...v5.0.32) (2025-02-01)
+
+### Bug Fixes
+
+- **generators:** Add FeathersGeneratorError ([#3556](https://github.com/feathersjs/feathers/issues/3556)) ([2a81a20](https://github.com/feathersjs/feathers/commit/2a81a204eb55c95d20fc45bf091c0131eff5a25d))
+
 ## [5.0.31](https://github.com/feathersjs/feathers/compare/v5.0.30...v5.0.31) (2024-10-31)
 
 ### Bug Fixes
